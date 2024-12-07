@@ -14,7 +14,7 @@ The task involves cleaning, manipulating and analysing data from FitBit users in
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-## Prepare
+## Prepare and Process
 
 The data is open-source and can be accessed [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 This data set contains personal fitness data from 30 FitBit users. Thirty eligible Fitbit users consented to submitting
@@ -147,3 +147,20 @@ Then the values are inserted into the columns:
 After DELETE FROM WHERE is used to only keep the rows with values in the "TimeWaste" column. The final result is:
 
 <img width="713" alt="Screenshot 2024-12-04 at 14 41 42" src="https://github.com/user-attachments/assets/ee2e742f-1e74-4bf6-8e9e-6df00512488d">
+
+## Analyse and Share
+
+This stage will involve performing an analysis on the cleaned files.
+
+### Excel
+
+The data could be sorted in a more meaningful manner in order to make analysis simpler, which would help make reliable conclusions. A pivot table will be used. 
+
+Below is an image of the pivot table created:
+
+<img width="1382" alt="Screenshot 2024-12-07 at 17 46 49" src="https://github.com/user-attachments/assets/61959b1f-b404-4399-b3a8-7f7f787be5fc">
+
+The "ActivityHour" column was chosen for the "Row labels" and "StepTotal" column was used for values in a form of an average number. This table shows how many steps on average were taken by different users at what time of the day.
+
+For the better understadning of the 
+
