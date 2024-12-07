@@ -150,7 +150,7 @@ After DELETE FROM WHERE, it is used to keep only the rows with values in the "Ti
 
 ## Analyse and Share
 
-This stage will involve performing an analysis on the cleaned files.
+This stage will involve performing an analysis of the cleaned files.
 
 ### Excel
 
