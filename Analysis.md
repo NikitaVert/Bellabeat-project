@@ -144,7 +144,7 @@ Then the values are inserted into the columns:
 
 <img width="995" alt="Screenshot 2024-11-18 at 17 54 25" src="https://github.com/user-attachments/assets/1245bac3-427d-4a91-9b17-ad5abfc7f609">
 
-After DELETE FROM WHERE is used to only keep the rows with values in the "TimeWaste" column. The final result is:
+After DELETE FROM WHERE, it is used to keep only the rows with values in the "TimeWaste" column. The final result is:
 
 <img width="713" alt="Screenshot 2024-12-04 at 14 41 42" src="https://github.com/user-attachments/assets/ee2e742f-1e74-4bf6-8e9e-6df00512488d">
 
@@ -162,5 +162,8 @@ Below is an image of the pivot table created:
 
 The "ActivityHour" column was chosen for the "Row labels" and "StepTotal" column was used for values in a form of an average number. This table shows how many steps on average were taken by different users at what time of the day.
 
-For the better understadning of the 
+For a better understanding of the table's data, a graph is generated as a visualisation in the form of a bar chart:
+
+
+
 
