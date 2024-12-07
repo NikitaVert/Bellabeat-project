@@ -158,7 +158,8 @@ The data could be sorted in a more meaningful manner in order to make analysis s
 
 Below is an image of the pivot table created:
 
-<img width="1382" alt="Screenshot 2024-12-07 at 17 46 49" src="https://github.com/user-attachments/assets/61959b1f-b404-4399-b3a8-7f7f787be5fc">
+<img width="1385" alt="Screenshot 2024-12-07 at 18 43 04" src="https://github.com/user-attachments/assets/abe97044-82e5-47e3-877d-35676076da49">
+
 
 The "ActivityHour" column was chosen for the "Row labels" and "StepTotal" column was used for values in a form of an average number. This table shows how many steps on average were taken by different users at what time of the day.
 
