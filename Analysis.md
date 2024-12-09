@@ -168,6 +168,7 @@ For a better understanding of the table's data, a graph is generated as a visual
 
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/5bbe10da-0b37-40fa-a414-86b5ae577698">
 
+The line crossing the bars represents the average value of steps.
 The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
 
 ### Tableau
