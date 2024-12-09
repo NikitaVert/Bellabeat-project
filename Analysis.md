@@ -160,13 +160,18 @@ Below is an image of the pivot table created:
 
 <img width="1411" alt="Screenshot 2024-12-09 at 17 41 23" src="https://github.com/user-attachments/assets/a202776e-11e8-48e1-b01f-4fb25d3e5806">
 
-The values highlighted in red are below average and those highlighted in green are above. The average number of steps taken in an hour is only 286.
+The values highlighted in red are below average, and those highlighted in green are above average. The average number of steps taken in an hour is only 286.
 
-The "ActivityHour" column was chosen for the "Row labels" and "StepTotal" column was used for values in a form of an average number. This table shows how many steps on average were taken by different users at what time of the day.
+The "ActivityHour" column was chosen for the "Row labels," and the "StepTotal" column was used for values in the form of an average number. This table shows the average number of steps taken by different users at what time of day.
 
 For a better understanding of the table's data, a graph is generated as a visualisation in the form of a bar chart:
 
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/5bbe10da-0b37-40fa-a414-86b5ae577698">
 
+The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
+
+### Tableau
+
+The data cleaned and organised in SQL will be used in Tableau to generate meaningful visualisation. 
 
 
