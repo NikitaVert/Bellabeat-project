@@ -158,13 +158,15 @@ The data could be sorted in a more meaningful manner in order to make analysis s
 
 Below is an image of the pivot table created:
 
-<img width="1385" alt="Screenshot 2024-12-07 at 18 43 04" src="https://github.com/user-attachments/assets/abe97044-82e5-47e3-877d-35676076da49">
+<img width="1411" alt="Screenshot 2024-12-09 at 17 41 23" src="https://github.com/user-attachments/assets/a202776e-11e8-48e1-b01f-4fb25d3e5806">
 
+The values highlighted in red are below average and those highlighted in green are above. The average number of steps taken in an hour is only 286.
 
 The "ActivityHour" column was chosen for the "Row labels" and "StepTotal" column was used for values in a form of an average number. This table shows how many steps on average were taken by different users at what time of the day.
 
 For a better understanding of the table's data, a graph is generated as a visualisation in the form of a bar chart:
 
+<img width="1019" alt="image" src="https://github.com/user-attachments/assets/5bbe10da-0b37-40fa-a414-86b5ae577698">
 
 
 
