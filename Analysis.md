@@ -146,7 +146,8 @@ Then the values are inserted into the columns:
 
 After DELETE FROM WHERE, it is used to keep only the rows with values in the "TimeWaste" column. The final result is:
 
-<img width="713" alt="Screenshot 2024-12-04 at 14 41 42" src="https://github.com/user-attachments/assets/ee2e742f-1e74-4bf6-8e9e-6df00512488d">
+<img width="944" alt="Screenshot 2024-12-15 at 17 37 47" src="https://github.com/user-attachments/assets/1a7b5c26-0f39-4fdf-8e74-735f9e8a6355">
+
 
 ## Analyse and Share
 
