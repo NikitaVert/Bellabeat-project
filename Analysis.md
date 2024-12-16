@@ -172,6 +172,7 @@ For a better understanding of the table's data, a graph is generated as a visual
 The line crossing the bars represents the average value of steps.
 The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
 
+
 ### Tableau
 
 The data cleaned and organised in SQL will be used in Tableau to generate meaningful visualisation.
@@ -190,6 +191,8 @@ The red bars represent a time waste of more than 35 minutes, while the green bar
 # Act
 
 ## Recommendations
+
+This section will focus on providing recommendations based on the analysis done in previous sections.
 
 ## Excel document hourlySteps
 
