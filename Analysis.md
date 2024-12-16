@@ -172,6 +172,7 @@ For a better understanding of the table's data, a graph is generated as a visual
 The line crossing the bars represents the average value of steps.
 The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
 
+According to the Olson (2023) the 
 
 ### Tableau
 
@@ -188,6 +189,13 @@ The bar chart below shows the average time of being in bed but not asleep (time 
 <img width="545" alt="Screenshot 2024-12-16 at 15 51 44" src="https://github.com/user-attachments/assets/4f0c6ccb-7ddb-4f23-b07f-e6daf4a1417a">
 The red bars represent a time waste of more than 35 minutes, while the green bars represent a time waste of less than 35 minutes.
 
+According to Olson (2023), the healthy amount of sleep for adults (above 18 years old) is at least 7 hours or 420 minutes. 
+
+When looking at the first graph it becomes clear that users do not usually get enough sleep as their sleep time falls below 420 minutes in most days of the week. Could the problem be linked to very busy schedules and users simply do not have time to lay in bed? Let's explore. 
+
+Rausch-Phung and Rausch-Phung (2023) state that it should take no more than 20 minutes for adults to fall asleep, although some people may take longer or faster. The second 
+
+
 # Act
 
 ## Recommendations
@@ -196,7 +204,10 @@ This section will focus on providing recommendations based on the analysis done 
 
 ## Excel document hourlySteps
 
+# References
 
-
+Olson, E.J. (2023). How many hours of sleep do you need? [online] Mayo Clinic. Available at: https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898.
+‌
+Rausch-Phung, E. and Rausch-Phung, E. (2023) How long should it take to fall asleep? https://www.sleepfoundation.org/sleep-faqs/how-long-should-it-take-to-fall-asleep#:~:text=Most%20adults%20with%20healthy%20sleep,sleep%20or%20a%20medical%20condition.
 
 
