@@ -176,10 +176,24 @@ The graph shows that the most active hours of the day are from 08:00 to 20:00. D
 
 The data cleaned and organised in SQL will be used in Tableau to generate meaningful visualisation.
 
-The bar chart below shows .
+The bar chart below shows users' average time being asleep:
 
 <img width="545" alt="Screenshot 2024-12-16 at 15 25 33" src="https://github.com/user-attachments/assets/bdfa951a-2f34-491a-aede-7f926a68735e">
+The red represents being asleep for less than 420 minutes (less than 7 hours), and the green represents being asleep for more than 420 minutes.
+Users get the most sleep on Wednesday and Sunday.
+
+The bar chart below shows the average time of being in bed but not asleep (time waste):
 
 <img width="545" alt="Screenshot 2024-12-16 at 15 51 44" src="https://github.com/user-attachments/assets/4f0c6ccb-7ddb-4f23-b07f-e6daf4a1417a">
+The red bars represent a time waste of more than 35 minutes, while the green bars represent a time waste of less than 35 minutes.
+
+# Act
+
+## Recommendations
+
+## Excel document hourlySteps
+
+
+
 
 
