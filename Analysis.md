@@ -174,7 +174,9 @@ The graph shows that the most active hours of the day are from 08:00 to 20:00. D
 
 ### Tableau
 
-The data cleaned and organised in SQL will be used in Tableau to generate meaningful visualisation. 
+The data cleaned and organised in SQL will be used in Tableau to generate meaningful visualisation.
+
+The bar chart below shows .
 
 <img width="545" alt="Screenshot 2024-12-16 at 15 25 33" src="https://github.com/user-attachments/assets/bdfa951a-2f34-491a-aede-7f926a68735e">
 
