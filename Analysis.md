@@ -170,9 +170,7 @@ For a better understanding of the table's data, a graph is generated as a visual
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/5bbe10da-0b37-40fa-a414-86b5ae577698">
 
 The line crossing the bars represents the average value of steps.
-The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
-
-
+The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps. The total number of number of steps taken per day on average is about 6,864.
 
 ### Tableau
 
@@ -212,6 +210,13 @@ This section will focus on providing recommendations based on the analysis done 
 
 ## Excel document (Daily steps)
 
+According to Paluch et al., (2022), the healthy amount of steps per day for adults younger than 60 years is 8,000 - 10,000 and for adults older than 60 years is 6,000 - 8,000. It is assumed that the age of users participating in the Fitbit study is higher than 18 and lower than 60 years. 
+
+The findings inform that users, on average, take 6,864 steps a day which falls short of the recommended number of 8,000 to 10,000. There are possible solutions to this problem:
+
+- Provide opportunities for users to plan their steps intake with Bellabeat app. This will help them accommodate the necessary amount of steps into their busy schedules. Considering that the 12-hour period from 8:00 to 20:00 is the most active, users could take 600 steps an hour during that period (which would add up to 7,200 steps) and then split the rest 800 between less active hours.
+- Bellabeat app, along with wearable devices could remind people to stay active and commit to their daily steps goal.
+- Ensure that users are aware of the benefits of walking by providing medical articles about the topic. This will motivate and encourage users to commit to a healthier lifestyle. 
 
 
 ## Tableau document (Sleep)
@@ -235,4 +240,5 @@ Olson, E.J. (2023). How many hours of sleep do you need? [online] Mayo Clinic. A
 ‌
 Rausch-Phung, E. and Rausch-Phung, E. (2023) How long should it take to fall asleep? https://www.sleepfoundation.org/sleep-faqs/how-long-should-it-take-to-fall-asleep#:~:text=Most%20adults%20with%20healthy%20sleep,sleep%20or%20a%20medical%20condition.
 
-
+Paluch, A.E., Bajpai, S., Bassett, D.R., Carnethon, M.R., Ekelund, U., Evenson, K.R., Galuska, D.A., Jefferis, B.J., Kraus, W.E., Lee, I-Min., Matthews, C.E., Omura, J.D., Patel, A.V., Pieper, C.F., Rees-Punia, E., Dallmeier, D., Klenk, J., Whincup, P.H., Dooley, E.E. and Pettee Gabriel, K. (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. The Lancet Public Health, [online] 7(3), pp.e219–e228. doi:https://doi.org/10.1016/S2468-2667(21)00302-9.
+‌
