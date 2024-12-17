@@ -181,19 +181,21 @@ The data cleaned and organised in SQL will be used in Tableau to generate meanin
 The bar chart below shows users' average time being asleep:
 
 <img width="545" alt="Screenshot 2024-12-16 at 15 25 33" src="https://github.com/user-attachments/assets/bdfa951a-2f34-491a-aede-7f926a68735e">
+
 The red represents being asleep for less than 420 minutes (less than 7 hours), and the green represents being asleep for more than 420 minutes.
 Users get the most sleep on Wednesday and Sunday.
 
 The bar chart below shows the average time of being in bed but not asleep (time waste):
 
 <img width="545" alt="Screenshot 2024-12-16 at 15 51 44" src="https://github.com/user-attachments/assets/4f0c6ccb-7ddb-4f23-b07f-e6daf4a1417a">
-The red bars represent a time waste of more than 35 minutes, while the green bars represent a time waste of less than 35 minutes.
+
+The red bars represent a time waste of more than 35 minutes, while the green bars represent a time waste of less than 35 minutes. For the simplicity of the analysis it would be assumed that users spend their time in bed before they go to sleep and not after.
 
 According to Olson (2023), the healthy amount of sleep for adults (above 18 years old) is at least 7 hours or 420 minutes. 
 
 When looking at the first graph it becomes clear that users do not usually get enough sleep as their sleep time falls below 420 minutes in most days of the week. Could the problem be linked to very busy schedules and users simply do not have time to lay in bed? Let's explore. 
 
-Rausch-Phung and Rausch-Phung (2023) state that it should take no more than 20 minutes for adults to fall asleep, although some people may take longer or faster. The second 
+Rausch-Phung and Rausch-Phung (2023) state that it should take no more than 20 minutes for adults to fall asleep, although some people may take longer or faster. The second graph shows that the users spend more than 35 minutes in bed before going to sleep
 
 
 # Act
