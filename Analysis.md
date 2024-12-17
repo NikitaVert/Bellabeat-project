@@ -172,7 +172,7 @@ For a better understanding of the table's data, a graph is generated as a visual
 The line crossing the bars represents the average value of steps.
 The graph shows that the most active hours of the day are from 08:00 to 20:00. During this 12-hour period, users accumulated the most steps.
 
-According to the Olson (2023) the 
+
 
 ### Tableau
 
@@ -212,6 +212,8 @@ This section will focus on providing recommendations based on the analysis done 
 
 ## Excel document (Daily steps)
 
+
+
 ## Tableau document (Sleep)
 
 The findings show that users, on average, get less sleep than required and spend more unnecessary time in bed than needed to fall asleep. Not getting enough sleep could negatively impact users' mood, appetite, mental health, and physical and mental performances. 
@@ -222,6 +224,8 @@ To fix the issue a few steps could be taken:
 - Provide recommendations based on the data collected by the watch and Leaf devices to help develop better sleep habits and improve the quality of sleep
 - Users should be able to plan their sleep schedules to fit their lifestyles and achieve higher sleep quality through Bellabeat app.
 - Dietary suggestions could be offered to improve overall health and sleep.
+- Users could receive notifications reminding them to not use their electronic devices at certain times
+- Users could receive guidance on breathing exercises which would help them relax and fall asleep faster. This could be controlled by a wearable device which would alarm users when to inhale and exhale.
 
 
 
