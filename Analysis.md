@@ -201,6 +201,23 @@ Rausch-Phung and Rausch-Phung (2023) state that adults should not take more than
 - Having trouble falling asleep quickly
 - Hormone levels change due to pregnancy
 
+## Rstudio
+The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstudio.
+
+### Packages and files upload
+
+
+### Duplicate rows
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 36 11" src="https://github.com/user-attachments/assets/fb840224-c9b6-49fa-8e0a-475b38f00873">
+
+
+### Null values
+
+
+
+### Date column
+
 
 # Act
 
