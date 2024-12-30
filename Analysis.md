@@ -230,6 +230,24 @@ The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstu
 
 ### Date column
 
+<img width="964" alt="Screenshot 2024-12-24 at 18 38 25" src="https://github.com/user-attachments/assets/7443e288-034b-4a30-a945-b7005c0de540" />
+
+<img width="769" alt="Screenshot 2024-12-30 at 17 41 49" src="https://github.com/user-attachments/assets/c440389a-a1f4-4c6f-adf8-b568155b1b15" />
+
+### Column name change
+
+<img width="964" alt="Screenshot 2024-12-24 at 18 40 11" src="https://github.com/user-attachments/assets/cf094f46-6544-4366-876f-c373bdbbf9d9" />
+
+<img width="951" alt="Screenshot 2024-12-24 at 18 59 36" src="https://github.com/user-attachments/assets/f5cf8577-4aac-4f8a-b4c4-71e37d54ea65" />
+
+### Merge tables
+
+<img width="940" alt="Screenshot 2024-12-30 at 17 44 19" src="https://github.com/user-attachments/assets/6f55912e-1193-4b46-bfa3-7c2ea0fb39c2" />
+
+### Add column
+
+<img width="951" alt="Screenshot 2024-12-24 at 19 02 17" src="https://github.com/user-attachments/assets/67d9dc32-dc3f-4722-80d2-d666512eac36" />
+
 
 # Act
 
