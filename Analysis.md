@@ -148,6 +148,53 @@ After DELETE FROM WHERE, it is used to keep only the rows with values in the "Ti
 
 <img width="944" alt="Screenshot 2024-12-15 at 17 37 47" src="https://github.com/user-attachments/assets/1a7b5c26-0f39-4fdf-8e74-735f9e8a6355">
 
+## Rstudio
+
+The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstudio.
+
+### Packages and files upload
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 33 13" src="https://github.com/user-attachments/assets/d66d2d71-93a4-4c0b-9d1f-a6c7dbf6a554" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 33 27" src="https://github.com/user-attachments/assets/99a2af46-e675-4337-aa11-88901c3c5632" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 34 12" src="https://github.com/user-attachments/assets/6c85032c-3816-449c-a098-83204ade8895" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 34 34" src="https://github.com/user-attachments/assets/3d97870a-a50b-4d74-98b9-0294e390eeb5" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 35 41" src="https://github.com/user-attachments/assets/fee6e88c-d363-4981-ad0d-0bbc0316d76f" />
+
+### Duplicate rows
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 36 11" src="https://github.com/user-attachments/assets/fb840224-c9b6-49fa-8e0a-475b38f00873">
+
+
+
+
+### Null values
+
+<img width="252" alt="Screenshot 2024-12-30 at 16 06 21" src="https://github.com/user-attachments/assets/d820aa2f-5397-44de-9799-e47c70a69871" />
+
+
+### Date column
+
+<img width="964" alt="Screenshot 2024-12-24 at 18 38 25" src="https://github.com/user-attachments/assets/7443e288-034b-4a30-a945-b7005c0de540" />
+
+<img width="769" alt="Screenshot 2024-12-30 at 17 41 49" src="https://github.com/user-attachments/assets/c440389a-a1f4-4c6f-adf8-b568155b1b15" />
+
+### Column name change
+
+<img width="964" alt="Screenshot 2024-12-24 at 18 40 11" src="https://github.com/user-attachments/assets/cf094f46-6544-4366-876f-c373bdbbf9d9" />
+
+<img width="951" alt="Screenshot 2024-12-24 at 18 59 36" src="https://github.com/user-attachments/assets/f5cf8577-4aac-4f8a-b4c4-71e37d54ea65" />
+
+### Merge tables
+
+<img width="940" alt="Screenshot 2024-12-30 at 17 44 19" src="https://github.com/user-attachments/assets/6f55912e-1193-4b46-bfa3-7c2ea0fb39c2" />
+
+### Add column
+
+<img width="951" alt="Screenshot 2024-12-24 at 19 02 17" src="https://github.com/user-attachments/assets/67d9dc32-dc3f-4722-80d2-d666512eac36" />
 
 ## Analyse and Share
 
@@ -202,51 +249,14 @@ Rausch-Phung and Rausch-Phung (2023) state that adults should not take more than
 - Hormone levels change due to pregnancy
 
 ## Rstudio
-The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstudio.
+The new dataframe "activity_sleep" will be visualised to assist in analysis.
 
-### Packages and files upload
+### Effect of sleep on all activity types
 
-<img width="956" alt="Screenshot 2024-12-24 at 18 33 13" src="https://github.com/user-attachments/assets/d66d2d71-93a4-4c0b-9d1f-a6c7dbf6a554" />
-
-<img width="956" alt="Screenshot 2024-12-24 at 18 33 27" src="https://github.com/user-attachments/assets/99a2af46-e675-4337-aa11-88901c3c5632" />
-
-<img width="956" alt="Screenshot 2024-12-24 at 18 34 12" src="https://github.com/user-attachments/assets/6c85032c-3816-449c-a098-83204ade8895" />
-
-<img width="956" alt="Screenshot 2024-12-24 at 18 34 34" src="https://github.com/user-attachments/assets/3d97870a-a50b-4d74-98b9-0294e390eeb5" />
-
-<img width="956" alt="Screenshot 2024-12-24 at 18 35 41" src="https://github.com/user-attachments/assets/fee6e88c-d363-4981-ad0d-0bbc0316d76f" />
-
-### Duplicate rows
-
-<img width="956" alt="Screenshot 2024-12-24 at 18 36 11" src="https://github.com/user-attachments/assets/fb840224-c9b6-49fa-8e0a-475b38f00873">
+![Sleep and Total activity](https://github.com/user-attachments/assets/d038e018-0490-47d0-9754-054b3674823b)
 
 
 
-
-### Null values
-
-<img width="252" alt="Screenshot 2024-12-30 at 16 06 21" src="https://github.com/user-attachments/assets/d820aa2f-5397-44de-9799-e47c70a69871" />
-
-
-### Date column
-
-<img width="964" alt="Screenshot 2024-12-24 at 18 38 25" src="https://github.com/user-attachments/assets/7443e288-034b-4a30-a945-b7005c0de540" />
-
-<img width="769" alt="Screenshot 2024-12-30 at 17 41 49" src="https://github.com/user-attachments/assets/c440389a-a1f4-4c6f-adf8-b568155b1b15" />
-
-### Column name change
-
-<img width="964" alt="Screenshot 2024-12-24 at 18 40 11" src="https://github.com/user-attachments/assets/cf094f46-6544-4366-876f-c373bdbbf9d9" />
-
-<img width="951" alt="Screenshot 2024-12-24 at 18 59 36" src="https://github.com/user-attachments/assets/f5cf8577-4aac-4f8a-b4c4-71e37d54ea65" />
-
-### Merge tables
-
-<img width="940" alt="Screenshot 2024-12-30 at 17 44 19" src="https://github.com/user-attachments/assets/6f55912e-1193-4b46-bfa3-7c2ea0fb39c2" />
-
-### Add column
-
-<img width="951" alt="Screenshot 2024-12-24 at 19 02 17" src="https://github.com/user-attachments/assets/67d9dc32-dc3f-4722-80d2-d666512eac36" />
 
 
 # Act
