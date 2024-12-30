@@ -150,9 +150,11 @@ After DELETE FROM WHERE, it is used to keep only the rows with values in the "Ti
 
 ## Rstudio
 
-The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstudio.
+The file "dailyIntensities_merged" was cleaned and modified using Rstudio.
 
 ### Packages and files upload
+
+This stage involves installation and loading of packages, uploading CSV files and checking data types for columns.
 
 <img width="956" alt="Screenshot 2024-12-24 at 18 33 13" src="https://github.com/user-attachments/assets/d66d2d71-93a4-4c0b-9d1f-a6c7dbf6a554" />
 
@@ -163,6 +165,8 @@ The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstu
 <img width="956" alt="Screenshot 2024-12-24 at 18 34 34" src="https://github.com/user-attachments/assets/3d97870a-a50b-4d74-98b9-0294e390eeb5" />
 
 <img width="956" alt="Screenshot 2024-12-24 at 18 35 41" src="https://github.com/user-attachments/assets/fee6e88c-d363-4981-ad0d-0bbc0316d76f" />
+
+The "ActivityDay" and "SleepDate" values are stored in the character data type. They need to be converted 
 
 ### Duplicate rows
 
