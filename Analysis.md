@@ -225,6 +225,7 @@ The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstu
 
 ### Null values
 
+<img width="252" alt="Screenshot 2024-12-30 at 16 06 21" src="https://github.com/user-attachments/assets/d820aa2f-5397-44de-9799-e47c70a69871" />
 
 
 ### Date column
