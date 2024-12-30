@@ -206,10 +206,20 @@ The file "dailyIntensities_merged" was cleaned, modified and analysed using Rstu
 
 ### Packages and files upload
 
+<img width="956" alt="Screenshot 2024-12-24 at 18 33 13" src="https://github.com/user-attachments/assets/d66d2d71-93a4-4c0b-9d1f-a6c7dbf6a554" />
+
 
 ### Duplicate rows
 
 <img width="956" alt="Screenshot 2024-12-24 at 18 36 11" src="https://github.com/user-attachments/assets/fb840224-c9b6-49fa-8e0a-475b38f00873">
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 33 27" src="https://github.com/user-attachments/assets/99a2af46-e675-4337-aa11-88901c3c5632" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 34 12" src="https://github.com/user-attachments/assets/6c85032c-3816-449c-a098-83204ade8895" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 34 34" src="https://github.com/user-attachments/assets/3d97870a-a50b-4d74-98b9-0294e390eeb5" />
+
+<img width="956" alt="Screenshot 2024-12-24 at 18 35 41" src="https://github.com/user-attachments/assets/fee6e88c-d363-4981-ad0d-0bbc0316d76f" />
 
 
 ### Null values
