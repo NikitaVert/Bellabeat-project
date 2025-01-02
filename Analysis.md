@@ -166,21 +166,27 @@ This stage involves installation and loading of packages, uploading CSV files an
 
 <img width="956" alt="Screenshot 2024-12-24 at 18 35 41" src="https://github.com/user-attachments/assets/fee6e88c-d363-4981-ad0d-0bbc0316d76f" />
 
-The "ActivityDay" and "SleepDate" values are stored in the character data type. They need to be converted 
+The "ActivityDay" and "SleepDate" values are stored in the character data type. They need to be converted to a DATE format for future modifications.
 
 ### Duplicate rows
 
+This section will indentify whether the "activity_day" dataframe possesses any duplicate rows.
+
 <img width="956" alt="Screenshot 2024-12-24 at 18 36 11" src="https://github.com/user-attachments/assets/fb840224-c9b6-49fa-8e0a-475b38f00873">
 
-
-
+No duplicate rows were found.
 
 ### Null values
 
+This section will check for null values in all columns and rows of the dataframe "activity_day".
+
 <img width="252" alt="Screenshot 2024-12-30 at 16 06 21" src="https://github.com/user-attachments/assets/d820aa2f-5397-44de-9799-e47c70a69871" />
 
+No null values found.
 
 ### Date column
+
+In this section the values for columns "activity_day" and "SleepDate" will be reformatted from CHR to DATE.
 
 <img width="964" alt="Screenshot 2024-12-24 at 18 38 25" src="https://github.com/user-attachments/assets/7443e288-034b-4a30-a945-b7005c0de540" />
 
