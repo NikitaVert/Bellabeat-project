@@ -283,7 +283,7 @@ Below are the graphs for each activity type:
 
 ![HighlyActiveMinutes](https://github.com/user-attachments/assets/b69d074b-8c8f-485a-b02a-3970c75bc73c)
 
-It is clear that most people prefer 
+It is clear that most people prefer to do light activities and a very small amount of users engage in moderate or intensive level of activities despite receiving a recommended quantity of sleep.
 
 
 # Act
@@ -318,7 +318,25 @@ To fix the issue a few steps could be taken:
 
 ## Rstudio (activity_sleep)
 
+A number of assumptions and conclusions can be derived from the graphs:
 
+1) Despite having an adequate amount of sleep most people choose NOT to engage in high-intensity activities.
+2) People are mostly active when they get around 7 hours of sleep.
+3) Some people are able to stay active and even perform high-intensity activities on a very low quantity of sleep (less than 3 hours).
+4) Users tend to be less active when they sleep far more than 7 hours. Oversleeping could negatively impact energy levels.
+
+More information is required to safely identify the issue as a number of factors could affect users' performance and energy levels:
+
+1) Quality of sleep. Some people might be getting enough sleep but their sleep quality is poor. Stress, anxiety, nightmares, unsitable room temperature (too cold or too hot), infant requiring attention at night, outside noises, lack of oxygen (room is not ventilated enough, sleep apnea, etc.)
+2) Poor diet. Some users might not be eating nutritious meals, eating too much or not eating enough.
+3) Lack of sleep build-up. Some people might be sleep-deprived for days so when they get a restful night they still might not feel fully refreshed.
+4) Medical conditions. Some people may have medical conditions preventing them from partaking in high-intensity activities.
+5) Personal preferences. Users might not be motivated enough to commit to the demanding physical activities.
+
+Recommendations:
+
+- Sleep-related recommendations were described in the previous section.
+- Provide users with the ability to 
 
 
 # References
