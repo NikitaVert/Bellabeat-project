@@ -283,6 +283,8 @@ Below are the graphs for each activity type:
 
 ![HighlyActiveMinutes](https://github.com/user-attachments/assets/b69d074b-8c8f-485a-b02a-3970c75bc73c)
 
+It is clear that most people prefer 
+
 
 # Act
 
