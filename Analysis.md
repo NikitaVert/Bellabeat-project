@@ -265,14 +265,23 @@ Rausch-Phung and Rausch-Phung (2023) state that adults should not take more than
 - Hormone levels change due to pregnancy
 
 ## Rstudio
-The new dataframe "activity_sleep" will be visualised to assist in analysis.
+The new dataframe "activity_sleep" will be visualised in Rstudio to assist in analysis.
 
 ### Effect of sleep on all activity types
 
+The graph below shows that most users are highly active when they recieve around 400 minutes of sleep. The activity duration starts to decline when people get a lot more or a lot less sleep. 
+
+<img width="1050" alt="Screenshot 2025-01-07 at 18 00 01" src="https://github.com/user-attachments/assets/90e17a58-96f0-42fd-b559-e4485dfd216c" />
+
 ![Sleep and Total activity](https://github.com/user-attachments/assets/d038e018-0490-47d0-9754-054b3674823b)
 
+Below are the graphs for each activity type:
 
+![LightActiveMinutes](https://github.com/user-attachments/assets/b4fbef76-df53-4190-bf65-aa30f77eb45d)
 
+![ModerateActiveMinutes](https://github.com/user-attachments/assets/25068300-c056-4b1f-8deb-4deea89da89d)
+
+![HighlyActiveMinutes](https://github.com/user-attachments/assets/b69d074b-8c8f-485a-b02a-3970c75bc73c)
 
 
 # Act
@@ -304,6 +313,9 @@ To fix the issue a few steps could be taken:
 - Dietary suggestions could be offered to improve overall health and sleep.
 - Users could receive notifications reminding them to not use their electronic devices at certain times
 - Users could receive guidance on breathing exercises which would help them relax and fall asleep faster. This could be controlled by a wearable device which would alarm users when to inhale and exhale.
+
+## Rstudio (activity_sleep)
+
 
 
 
