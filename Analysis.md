@@ -336,7 +336,7 @@ More information is required to safely identify the issue as a number of factors
 Recommendations:
 
 - Sleep-related recommendations were described in the previous section.
-- Provide users with the ability to 
+- Provide users with plans for progressive overload where they can start with low-intensity activities and, with time, progress to higher-intensity exercises. 
 
 
 # References
