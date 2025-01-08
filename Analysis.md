@@ -331,13 +331,15 @@ More information is required to safely identify the issue as a number of factors
 2) Poor diet. Some users might not be eating nutritious meals, eating too much or not eating enough.
 3) Lack of sleep build-up. Some people might be sleep-deprived for days so when they get a restful night they still might not feel fully refreshed.
 4) Medical conditions. Some people may have medical conditions preventing them from partaking in high-intensity activities.
-5) Personal preferences. Users might not be motivated enough to commit to the demanding physical activities.
+5) Personal preferences. Users might not be motivated enough to commit to demanding physical activities.
 
 Recommendations:
 
 - Sleep-related recommendations were described in the previous section.
 - Provide users with plans for progressive overload where they can start with low-intensity activities and, with time, progress to higher-intensity exercises. 
-
+- Help people increase sleep quality and decrease distractions. The information could be delivered through Bellabeat app and wearable devices could monitor sleep.
+- Help users manage their busy schedules and physical activities.
+- Provide dietary advices and recommendations, and help monitor nutrition and calorie intake.
 
 # References
 
